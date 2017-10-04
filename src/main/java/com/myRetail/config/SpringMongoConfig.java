@@ -15,6 +15,7 @@ public class SpringMongoConfig {
 
 	@Autowired
 	MongoDbFactory mongoDbFactory;
+	
 	@Autowired
 	MongoMappingContext mongoMappingContext;
 
